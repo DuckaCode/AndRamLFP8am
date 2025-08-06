@@ -1,0 +1,15 @@
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\bin\Debug\net8.0\Operadores.exe
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\bin\Debug\net8.0\Operadores.deps.json
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\bin\Debug\net8.0\Operadores.runtimeconfig.json
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\bin\Debug\net8.0\Operadores.dll
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\bin\Debug\net8.0\Operadores.pdb
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfoInputs.cache
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfo.cs
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.sourcelink.json
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.dll
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\refint\Operadores.dll
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.pdb
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\Operadores.genruntimeconfig.cache
+C:\Users\B09s305est\Desktop\AndreFRamirez\AndRamLFP8am\Operadores\Operadores\obj\Debug\net8.0\ref\Operadores.dll
